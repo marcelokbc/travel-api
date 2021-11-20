@@ -11,3 +11,15 @@ Product.create!(
     subtitle:"Visite as praias",
     price: 2899.98
 )
+
+Product.create!(
+    title:"Nova York",
+    subtitle:"Tenha um natal único",
+    price: 3200.99
+)
+
+Product.create!(
+    title:"Los Angeles",
+    subtitle:"Visite a cidade dos anjos",
+    price: 2560.99
+)
